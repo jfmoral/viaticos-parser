@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# Entorno y credenciales
+.env
+
+# Archivos de trabajo y datos sensibles
+input_xml/*.xml
+output/*.xlsx
+output/*.csv
+
+# IDEs
+.vscode/
+.idea/
